@@ -1,0 +1,13 @@
+{
+    "name": "paipe/izber",
+    "authors": [
+        {
+            "name": "apanov",
+            "email": "alexander.panov@dev-ifc.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.12",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}

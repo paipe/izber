@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85f3f312-8b9f-4cdf-a563-1f7df807603b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1bAlgBTOBDUPsv9YlXdEInsxBjj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/in_work/app" />
+  </component>
+  <component name="RunManager">
+    <configuration name="izber" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85f3f312-8b9f-4cdf-a563-1f7df807603b" name="Default Changelist" comment="" />
+      <created>1588082887709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588082887709</updated>
+      <workItem from="1588082889037" duration="1989000" />
+      <workItem from="1588151563922" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="262" y="-12" width="828" height="674" key="#CLI_Interpreters" timestamp="1588083234687">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="262" y="-12" width="828" height="674" key="#CLI_Interpreters/0.0.1366.768@0.0.1366.768" timestamp="1588083234687" />
+    <state x="336" y="-18" width="679" height="758" key="#PHP" timestamp="1588083242433">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="336" y="-18" width="679" height="758" key="#PHP/0.0.1366.768@0.0.1366.768" timestamp="1588083242433" />
+    <state x="139" y="6" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588083248231">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="139" y="6" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1588083248231" />
+    <state x="460" y="70" width="428" height="474" key="FileChooserDialogImpl" timestamp="1588152037579">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="460" y="70" width="428" height="474" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588152037579" />
+    <state width="1320" height="226" key="GridCell.Tab.0.bottom" timestamp="1588084879255">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="226" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588084879255" />
+    <state width="1320" height="226" key="GridCell.Tab.0.center" timestamp="1588084879255">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="226" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588084879255" />
+    <state width="1320" height="226" key="GridCell.Tab.0.left" timestamp="1588084879255">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="226" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588084879255" />
+    <state width="1320" height="226" key="GridCell.Tab.0.right" timestamp="1588084879255">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="226" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588084879255" />
+    <state x="481" y="165" width="393" height="356" key="NewPhpClassDialog" timestamp="1588083143782">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="481" y="165" width="393" height="356" key="NewPhpClassDialog/0.0.1366.768@0.0.1366.768" timestamp="1588083143782" />
+    <state x="478" y="274" width="399" height="138" key="NewPhpFileDialog" timestamp="1588083148623">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="478" y="274" width="399" height="138" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1588083148623" />
+  </component>
+</project>
